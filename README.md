@@ -1,7 +1,6 @@
-# Data-Engineer-Nanodegree-Projects-Udacity
+# Data Modeling with Postgres and Apache Cassandra
 Projects done in the [Data Engineer Nanodegree by Udacity.com](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
 
-#### Project 1: Data Modeling with Postgres and Apache Cassandra
 
 
 #### The image below is a screenshot of what the denormalized data should appear like in the event_datafile_new.csv 
@@ -49,4 +48,4 @@ and used as clustering columns to help make up a unique key.
 Thanks !
 
 Email : Abdallah.Qoutb@gmail.com
-Data Engineer
+<br> Data Engineer
