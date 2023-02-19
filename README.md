@@ -13,20 +13,9 @@ The Business Asked to made the Below Query Give me the artist, song title and so
 <h2> First Create Table Table song_info And Choose only the Columns Asked To load  </h2>
 <br>
 
-``` sql 
-query =
-    
-    Create table if not exists song_info (
-    artist text , 
-    song_title text,
-    length float ,
-    session_id int,  
-    item_session int, 
-    Primary key (session_id,item_session)
-    )
+![image](https://user-images.githubusercontent.com/47276503/219933894-0d5e8a93-083e-4320-93c1-ab1b5f458944.png)
 
- 
-```
+<br>
 Note :
 For the Above Query , the session_id and Column item_session was used as a partition key because the queries will filter by them 
 and used as clustering columns to help make up a unique key.
