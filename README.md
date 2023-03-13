@@ -34,6 +34,12 @@ The Business Asked to made the Below Query Give me the artist, song title and so
 
 ![image](https://user-images.githubusercontent.com/47276503/219933894-0d5e8a93-083e-4320-93c1-ab1b5f458944.png)
 
+
+
+
+![image](https://user-images.githubusercontent.com/47276503/224638536-06653681-04e9-4e99-842c-5a3dedb54ab8.png)
+
+
 <br>
 Note :
 For the Above Query , the session_id and Column item_session was used as a partition key because the queries will filter by them 
