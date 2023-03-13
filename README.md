@@ -37,7 +37,6 @@ The Business Asked to made the Below Query Give me the artist, song title and so
 
 
 
-![image](https://user-images.githubusercontent.com/47276503/224638536-06653681-04e9-4e99-842c-5a3dedb54ab8.png)
 
 
 <br>
@@ -58,6 +57,7 @@ and used as clustering columns to help make up a unique key.
 ![image](https://user-images.githubusercontent.com/47276503/218798817-a8c3f13a-5ffb-4934-9d36-d0186748ba5a.png)
 
 
+![image](https://user-images.githubusercontent.com/47276503/224638536-06653681-04e9-4e99-842c-5a3dedb54ab8.png)
 
 Thanks !
 
